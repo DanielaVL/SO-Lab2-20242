@@ -1,0 +1,5 @@
+ls
+cd enunciado
+ls
+cd ..
+ls -la /tmp
