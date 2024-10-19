@@ -1,0 +1,5 @@
+echo Oe bien!!
+invalid_command
+cd
+cd /nonexistent_directory
+exit

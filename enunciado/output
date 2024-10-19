@@ -1,0 +1,12 @@
+total 40
+drwxrwxrwt 11 root      root      4096 Oct 19 00:07 .
+drwxr-xr-x 19 root      root      4096 Oct 18 21:28 ..
+drwxrwxrwt  2 root      root      4096 Oct 18 21:28 .ICE-unix
+drwxrwxrwt  2 root      root      4096 Oct 18 21:28 .Test-unix
+drwxrwxrwx  2 root      root        60 Oct 18 21:28 .X11-unix
+drwxrwxrwt  2 root      root      4096 Oct 18 21:28 .XIM-unix
+drwxrwxrwt  2 root      root      4096 Oct 18 21:28 .font-unix
+drwx------  2 root      root      4096 Oct 18 21:28 snap-private-tmp
+drwx------  3 root      root      4096 Oct 18 21:28 systemd-private-3e5bf8e930f7471ead2df627a28a493a-systemd-logind.service-hFnkhf
+drwx------  3 root      root      4096 Oct 18 21:28 systemd-private-3e5bf8e930f7471ead2df627a28a493a-systemd-resolved.service-l3W2ap
+drwxr-xr-x  2 danivaslo danivaslo 4096 Oct 18 21:28 {761DD787-5000-428B-BC6C-17A202AE9A85}
